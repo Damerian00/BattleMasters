@@ -30,15 +30,15 @@
 <br />
 
 
-  <h3 align="center">Miro Mock Site</h3>
+  <h3 align="center">Battle Masters</h3>
 
   <p align="center">
      This is an old style RPG where you make choices for your herp in the fightig arena. 
     <br />
-    <a href="https://github.com/Damerian00/miroMocksite"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Damerian00/BattleMasters"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://damerian00.github.io/miroMocksite/">View Demo</a>
+    <a href="https://damerian00.github.io/BattleMasters/">View Demo</a>
     
 </p>
 
@@ -85,7 +85,7 @@
 
 Patrick - (https://github.com/Damerian00) - GitHub Name
 
-Project Link: [https://github.com/Damerian00/miroMocksite]
+Project Link: [https://github.com/Damerian00/BattleMasters]
 
 
 
