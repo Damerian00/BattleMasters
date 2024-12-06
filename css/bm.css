@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{min-width:590px;max-width:1600px;}
-main{border:thick solid black;width:75%;height:800px;margin:2% auto;}
+main{border:thick solid black;width:75vw;height:800px;margin:2% auto;}
 header img{width:10%;}
 header .sword{float:left;min-width:59px;}
 header .bNA{float:right;margin-top:55px;min-width:59px;}
@@ -21,13 +21,13 @@ header h3{font-size:12px;padding:0 0 20px 2vw;position:absolute;width:100%;}
 #selection{flex:1;}
 #hideMe{display:none;}
 #tName{text-transform: capitalize;}
-@media (max-width:660px){
-	main{width:100%;}
+@media only screen and (max-width:660px){
+	main{width:100vw;}
 	header .mace{left:259px;}
 	header .shield{left:243px;}
 	header h3{width:42%;position:relative;}
 }
-@media (min-width:1600px){
+@media only screen and (min-width:1600px){
 	main{width:1600px;height:1064px;}
 	header{height:30vh;}
 	header .mace{left:754px;top:4vh;}
